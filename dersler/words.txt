@@ -1,0 +1,1572 @@
+Disappointment:hayal kırıklığı/hüsran
+siege=kuşatma
+conquest=fethetmek/fetih
+provoked=kışkırmak
+governor=vali
+seiz=ele geçirmek
+enraged=öfkeli
+breach=ihlal etmek/çiğnemek/uymama
+breach the walls=duvarları aşmak
+resiste=direniş
+fiercely/fierce=şiddetle/şiddetli(vahşi)
+Silk Road=İpek yolu
+capture=esir almak/el koymak/almak
+including=dahil/içermek/kapsayan
+deserted=ıssız/tenha/terkedilmiş
+executed=idam edildi
+invade=istila etmek/ele geçirme
+significant=önemli
+merked=işaretli/belirgin/bariz
+domination=hakimiyet
+Dice=zar
+Appears=görünmek
+Stage=sahne
+Fright=dehşet/korku/ürkme
+Folks=millet
+Tune=melodi
+Dreaded=ödü kopmak
+Loud=yüksek ses/gürültü
+Cannibal=yamyam
+Clown=palyanço
+Dang=kahretsin
+Shatter=kırmak
+Supposed=sanmak/zannetmek
+Rigged=hileli
+Dignity=onur
+İntact=bozulmamış
+Awkward=garip
+Autograph=imza
+Henchman=uşak
+Fact=gerçek
+Palm=avuç içi
+Precious=değerli
+İssues=sorun/mesele
+Do you copy? = Duyuyor musun?
+Mount=montajlamak/monte etmek
+Propeller=pervane
+Proud=gururlu
+Considered=kabul
+Skunk=Kokarca
+Stuum=ağaç kökü/kütük
+Stunk=kokuşmuş
+Thunk=küt diye ses çıkarmak /düşünmek(think)
+Knit=örgü/kaynaşmak
+announced=duyuruldu
+Malicious=kötü niyetli
+Cumulative=Birikmiş/Toplu
+Labour=İş gücü/Emek/Çalışma
+Occupational=Mesleki
+occupational health=İş Sağlığı
+Institution=Kurum
+legislation=mevzuat
+humidity=insanlık 
+Consequences=sonuç
+Overdue=geç kalınmış
+behaviour =davranış
+
+Sensation= hissetmek
+
+Narrative=anlatı/öykü
+
+Fellowship=arkadaşlık 
+
+expression=kendini ifade etmek
+
+Submission=bir seye teslim olmak/boyun eğmek
+
+anticipation=beklemek
+
+Humor=mizah/eğlenmek
+
+Thrill=heyecan
+
+triumph=zafer/başarı
+
+Adversity=zorluk/sıkıntı 
+
+Signature=İmza
+
+Treble=Tiz
+
+Cursed=lanetli
+
+Fairy=peri
+
+Tale=masal
+
+Fairytale=peri masalı 
+
+Seductive=baştan çıkarıcı
+
+Nymph=peri
+
+Tail= kuyruk
+
+Alluring=çekici
+
+Limelight=ilgi odağı
+
+Shame=utanç
+
+Origin=köken
+
+Bare=çıplak
+
+Hollow=içi boş
+
+Bark=kabuk
+
+Snippets=parçacıklar
+
+Digging=kazma
+
+Vague= belirsiz/anlaşılmaz/hayal meyal
+
+Pair=çift/eşlemek
+
+Blank=boşluk
+
+unbound=Bağlanmamış/serbest
+
+Perhaps=belki/muhtemel
+
+smuggle=kaçakçılık/gizlice sokmak
+
+Wreck=enkaz
+
+Merge=birleştirmek
+
+Charming=Büyüleyici/Yakışıklı/Etkileyici 
+
+Union=sendika
+
+degraded=Bozulmuş/incinmiş
+
+oppressed=ezilmiş(his olarak)
+
+pinch=tutam/çimdik
+
+naughty=yaramazlık
+
+hint=ipucu
+
+lust=şehvet
+
+barge in=içeri dalmak
+
+ogre=dev/canavar
+
+mermaid=deniz kızı
+
+janitor=kapıcı/hademe
+
+employee=çalışan/eleman
+
+stinks=leş gibi kokmak
+
+concocting=uydurmak/hazırlamak
+
+licking=yalamak
+
+burglar=hırsız
+
+wicked=kötü
+
+whammy=nazar/ciddi aksilik
+
+giggling=kıkırdama
+
+toad=kurbağa
+
+stool=dışkı/tabure
+
+hex=büyü/uğursuz/altıgen
+
+lax=rahat/gevşek
+
+divine=ilahi
+
+revered=saygıdeğer
+
+wisest=en bilge
+
+you spurn=reddediyorsun
+
+commotion=kargaşa
+
+smothered=boğulmuş/bulanmış
+
+rend=koparmak/ayırmak
+
+smite=vurmak/yere sermek/öldürmek/feci etkilenmek
+
+rue=pişmanlık
+
+advantage=avantaj
+
+affect=etki
+
+tingling=karıncalanma
+
+jug=sürahi/testi
+
+smearing=bulaşma
+
+rub=sürtmek/ovmak
+
+sip=yudum
+lay=sermek
+
+wallowing=yuvarlanmak/debelenmek (çamurda ya da suda)
+
+itchy=kaşıntı
+
+butt=popo/izmarit
+
+grabbed=yakalandı
+
+farty=az/küçük/önemsiz
+
+arty farty=entel dantel
+
+dud=işe yaramaz/başarısız
+
+sleazy=kalitesiz
+
+whack=vurmak
+
+bottom=alt/dip
+
+shave=tıraş
+
+swamp=bataklık
+
+fetch=getirmek
+
+pail=kova
+
+tense=gergin
+
+stallion=aygır
+
+whinny=kişneme
+
+count=saymak
+
+trotting=koşu/at yarışı/atın sekmesi
+
+include=şunları içerir
+
+itching=kaşıntı
+
+oozing=sızma
+
+weeping=ağlamak
+
+intended=planlanan
+
+disorders=bozukluklar
+
+permanent=kalıcı
+
+obtain=elde etmek
+
+satisfied=memnun
+violin=keman
+
+powdered=toz/ufak nesnelerle süslü
+
+wig=peruk
+
+unless=olmazsa
+
+trace=iz
+
+approve=onaylamak
+
+impression=izlenim
+
+mess=darmadağınık
+
+carved=oyulmuş/yapılmış
+
+shockingly=şok edici şekilde
+
+aye=evet
+
+dragging=sürüklemek
+
+pretend=davranmak
+
+dreadful=korkunç
+
+fab=muazzam
+
+coach=koç/antrenör
+
+turned out=ortaya çıktı
+
+crumbs=kırıntı
+
+mammal=memeli
+
+attitude=tutum/davranış
+
+mare=kısrak
+
+catnip=kedi nanesi
+
+decaf=kafeinsiz
+
+lack=eksiklik
+
+certainly=kesinlikle
+
+moat=hendek
+
+lip=dudak
+
+glitter=parlatıcı
+
+flavoured=aromalı
+
+dedicate=ithaf etmek
+
+odds=oranlar
+
+cauldron=kazan
+
+foam=köpük
+
+heave=kaldır/fırlat
+
+gag=öğürmek
+
+debt=borç
+
+mercy=merhamet
+
+pray=dua et
+
+croaked=vıraklamak
+
+blessing=kutsama
+
+steed=at
+
+noble=asil
+
+Bezel=çerçeve 
+
+Solid=katı/sağlam madde
+
+Pleasing=memnun edici/hoş 
+
+Shiny=parlak
+
+Attetion=dikkat
+
+Deficit=eksiklik
+
+Slightly=Hafifçe/Birazcık 
+
+İncognito=gizli
+
+Suspend=askıya almak
+
+Flicker=titreşim
+
+Dim=loş
+
+Counterfeit=sahte
+
+Pending=beklemede
+
+several=birçok
+
+Letter=mektup
+
+zealous=hevesli
+
+smug=kendini beğenmiş/şımarık
+
+guilty=suçlu
+
+hooker=fahişe
+
+juicy=ilginç/sulu
+
+chuckles=kıkırdama
+
+bond=bağ
+aspirations=istek/özlem
+embarrassed=utanç
+affair=mesele
+prop=pervane/sahne malzemesi
+
+coincidence=tesadüf
+
+eternal=sonsuz
+
+doom=kıyamet
+deity=tanrı
+
+curious=meraklı
+
+besides=ayrıca/üstelik
+
+irritating=rahatsız edici
+tentacles=dokunaç
+
+mention=değinmek/söz etmek
+
+praise=övmek
+
+humble=mütevazi
+
+bridesmaids=geline eşlik eden kız
+
+inadequate=yetersiz/eksik
+
+alliance=ittifak
+
+messed up=yüzüne gözüne bulaştırmak
+
+consultation=danışma
+
+grieving=kederli
+
+dork=salak
+
+blessed=kutsanmış
+tumble=takla
+
+beware=dikkat
+
+antelope=antilop
+
+enchanted=büyülü
+
+glance=bakış atma
+
+sighs=iç çekmek
+snores=horlamak
+lair=sığınak
+pant=hızlı nefes alıp vermek/solumak/nefes nefese
+
+baloney=saçmalık
+foretold=önceden bildirilmiş
+
+implement=uygulamak
+
+gnome=cüce
+
+father in law=kayınpeder (in law kayın demek)
+sister in law=görümce/baldız
+
+strict=sıkı/katı
+
+to be crazy about: deli gibi sevmek, çok hoslanmak
+to be keen on: merakli olmak
+to be fond of: düskün olmak
+to be interested in: ilgili olmak
+
+wailing=feryat/inilti
+groans=inleme
+clattering=ses çıkarmak/takırdamak
+breast milk=anne sütü
+breast=göğüs/meme
+mess=karışıklık
+sacked=çuval/soymak/kovmak
+screech=acı feryat (fren sesi gibi ğııık)
+appointment=randevu
+confused=karıştırmak
+ally=dost/müttefik
+blanking=boşluk/silmek
+aftershave=tıraş losyonu
+sniffs=burun çekmek
+mumble=gevelemek
+
+bleating=meleme/ötme
+baptism=vaftiz
+dreadin=korku/dehşet
+mint=nane/para basmak
+growls=sızlanma/homurtu/hırlama
+clucking=gıdaklama
+assuming=varsaymak/farzetmek
+kennels=köpek evi
+muck=çamur/pislik/gübrelemek
+hose=hortumla sulamak
+stable=ahır
+perhaps=belki/bir ihtimal
+digestive=sindirim (kurabiye gibi atıştırmalık olabilir)
+instead=yerine
+ditch=kurtulmak/hendek
+snickers=gülmesini tutamama
+pensive=düşünceli/dalgın
+chiming=çan sesi
+leap=sıçrama/atlama
+bum=kıç/dilenci
+queer=eşcinsel
+fluid=akışkan
+encourage=cesaretlendirmek/teşvik etmek/desteklemek
+enthusiastic=hevesli
+consent=rıza
+absence=yokluk/devamsızlık
+
+intimate=samimi
+hung on=takılı kalmak
+anxious=kaygı/endişe
+habit=huy
+shame=yazık/ayıp
+pubes=meyhane/kasık
+jaunty=neşeli
+unsavory=nahoş/tatsız
+pulse=nabız
+novel=roman
+imitation=taklit
+bright=aydınlık
+betraying=ihanet
+gossiped=çene çalmak/dedikodu
+fart=osurmak
+silly=aptalca
+somber=hüzünlü
+repent=tövbe
+sins=günah
+offer=fırsat
+doubts=şüphe
+mentioned=bahsetmek
+hemp=kenevir
+slurping=çekerek içmek(pipet)
+tough=zor
+judgment=yargı
+gentle=nazik
+apprenticeship=staj/çıraklık
+prospects=ihtimal
+bricklaying=tuğla ustası
+kale=lahana
+harsh=sert/acımasız
+jangling=şıkırdamak
+disastrous=felaket
+distracted=salgın
+glad=memnun olmak
+pretend=rol yapmak
+lump=yumru/topak/şişlik
+accused=suçlamak
+cuddle=sarılmak
+wankin=mastürbasyon
+engage=çekmek/ilgilenmek
+beneficial=yararlı
+miracle=mucize
+devastate=tahrip etmek
+shouts=bağırma
+evolve=gelişmek/evrim geçirmek
+immature=olgunlaşmamış
+arsehole=göt
+bunk=ranza
+stink=kötü kokmak
+spare=yedek
+glam=gösteriş/süs
+formerly=önceden
+compassionate=şefkatli
+yell=bağırmak
+hereditary=ırsi/kalıtsal
+winky=göz kırpan
+till=kadar/dek
+revenge=intikam
+pronounce=telaffuz
+dizzy=baş döndürücü
+lie down=uzanmak
+grub=yemek/tırtıl
+glow=parlamak
+divorce=boşanma/ayrılık
+naked=çıplak
+rough=pürüzlü/kaba/zor
+tether=urgan/ip/bağlamak
+separated=ayrılmak
+It would be nice if someone made tea=biri çay yapsa iyi olurdu
+
+chaperon=refakatçi
+
+urgent=acil
+
+decline=azalma
+
+indelicate=uygunsuz
+
+mention=bahsetmek
+
+intends=niyetinde
+
+duty=görev
+
+sty=arpacık, domuz ahırı
+
+rot=çürümek
+
+gums=dişeti, yapıştırmak,sakız
+
+engagement=nişan
+
+assure=garanti etmek
+beggar=dilenci
+revealed=ortaya çıkmak
+impurity=kirlilik
+revenge=intikam
+
+rust=pas
+
+disown=reddetmek
+
+hesitate=tereddüt
+
+serendipitous=şans eseri
+culpable=suçlu
+yelling=bağırma
+jittery=gergin/sinirli
+betraying=ihanet etmek
+Legacy=miras
+
+Loan=banka kredisi
+
+Linger=oyalanmak
+
+Catapult= mancınık 
+
+**magnifying glass**=**büyüteç**
+
+Do not discriminate= ayrımcılık yapma
+
+Grasping=Kavramak
+
+profound=Engin/Derin
+flexible=esnek
+uppity=Kibirli/Kendini beğenmiş
+fractional=kesirli
+
+round-off =yuvarlama
+
+appropriate=uygun
+context=bağlam
+indeed=aslında
+
+nursery=kreş
+
+advocate=avukat/savunucu
+
+split up=ayrılmak
+dumped=terk edilmek
+****drift apart=birbirinden uzaklaşmak
+****hit it off=iyi geçinmek
+fell head over heels=sırılsıklam aşık olmak
+****worshipped=tapınılan
+****don’t see eye to eye=göz göze gelmemek
+getting along=anlaşmak
+idolised=putlaştırılmış
+have it in for someone=gıcık gitmek
+look up to = saygı duymak
+chat up = biriyle baştan çıkarıcı şekilde konuşmak
+turn me on = tahrik etmek
+two-timing= aldatmak
+
+has a lot in common=pek çok ortak noktası olmak
+circumstances=durumlar
+worships=tapmak / hayranlık duymak
+seeing  (If you are seeing someone)=biriyle ilişki içinde olmak ve başka birileriyle görüşmemek
+go back years=iki kişi birbirini uzun süredir tanıyor demektir
+make up with someone=barışmak
+ruin=mahvetmek
+keep a diary=günlük tutmak
+
+Worth=değer
+dormitory=yurt/yatakhane
+primitive=ilkel
+
+primal=asıl/ilk/ana
+poll=kamuoyu yoklaması
+survey=anket
+
+Put off=ertelemek
+
+sacrifice=kurban etmek/kurban
+sigil=mühür
+
+mock=alay
+dwarf=cüce
+satisfying=tatmin edici
+denying=inkar etmek
+existence=varoluş
+paraphrased=başka kelimelerle ifade ediş
+quotes=alıntı/aktarma/tırnak işareti(tırnak içinde alıntı yapmak manasında)
+pure=saf
+unshackle=zincirlerini çözmek/serbest bırakmak
+endure=dayanmak/katlanmak
+Intention=niyet
+contributes=katkıda bulunmak
+Consequences=Sonuçlar
+manifest=belirgin
+outcomes=sonuçlar
+suffering=acı/dert/ızdırap
+tied=bağlı
+determines=belirlemek
+circumstances=durumlar
+Liberation=kurtuluş
+involves=içermek/kapsamak
+accumulating=biriktirmek/toplamak
+deed=senet/tapu/belge/iş
+Conduct=yönetmek
+encourages=teşvik etmek
+emphasizes=vurgulamak
+individual=bireysel
+suggesting=önermek
+influence=etkilemek
+righteousness=doğruluk/dürüstlük
+interrelated=birbiriyle ilişkili
+crucial=hayati/çok önemli/kritik
+mindfulness=farkındalık
+substance=madde
+grace=lütuf
+
+shares=hisseler
+
+pump out=dışarı taşma(thermal paste pumped out)
+
+Sequence=dizi (matematikteki dizi kavramı)
+
+approximation=yaklaşma/tahmin/yakın
+
+individual=bireysel/tek/kişisel
+
+measure=ölçmek/tartmak
+
+chords=akorlar
+Strumming=acemice çalmak/tıngırdatmak
+
+aspects=bakış açısı/görüş
+captivate=büyülenmek/büyülemek
+impact=darbe
+deviates=sapma
+
+patience=sabretmek
+
+Confess=itiraf etmek
+
+demand=talep etmek
+**fumble=becerememe/beceriksiz**
+
+prom=balo
+
+Sincere= samimi
+
+**refugees=mülteciler**
+
+urgently=acilen
+
+spread=yaymak
+
+crosses their minds=akıllarından geçmek
+
+flood=akın etmek/su baskını-sel/rahim kanaması/akma-dolması (ülkeye mülteci akını olması- mülteci dolması)
+
+fomenting=kışkırtmak/teşvik etmek (isyan,protesto)
+
+province=vilayet(il)
+
+ belonging to=ait
+
+harass/harassment=taciz/ taciz edilmek
+
+stabbed=bıçaklanma
+
+threatening=tehdit eden
+
+to swamp=batırmak
+
+swamped=boğulmak
+
+his reelection bid=yeniden seçilme girişimi
+
+rising tide=yükselen dalga
+
+tide=gelgit
+
+blame=suçlamak
+
+abortion=kürtaj
+
+carry out=gerçekleştirmek/yapmak/uygulamak
+
+forbidden=yasaklı
+
+consider=düşünmek, göz önünde bulundurmak
+
+strive=çabalamak
+
+postpone=ertelemek
+
+stickler=inatçı, titiz
+
+punctuality=dakiklik
+
+jumbled=karışık, karıştırmak
+
+gather=toplamak
+
+mentioned=sözü geçen,bahsedilmiş olan
+
+takeout=paket
+
+collaborate=iş birliği yapmak
+
+grab=yakalamak(günlük konuşmada get veya buy anlamında kullanılır)
+
+peanut=yer fıstığı
+
+pistachio=antep fıstığı
+
+walnut=ceviz
+
+almond=badem
+
+cashew=kaju
+
+fig=incir
+
+roasted chickpea=leblebi (roasted=kavrulmuş)
+
+chickpea=nohut
+apricot=kayısı
+
+grape=üzüm
+
+pear=armut
+
+plum=erik
+
+peach=şeftali
+
+mulberry=dut
+
+date/date fruit=hurma
+
+cinnamon=tarçın
+
+cinnamon powder=toz tarçın (powder bu anlamda bir toz demektir)
+
+mandarin=mandalina
+
+Pressure cooker = düdüklü tencere
+
+Whistling = ıslık çalmak
+
+Bowl = kase
+
+Plate = tabak
+
+Red pepper flakes = pul biber
+
+Perching = tünemek
+
+Fold = katlamak
+
+Blanket = battaniye
+
+Quilt = yorgan
+
+Laundry = çamaşır
+
+Washing machine = çamaşır makinesi
+
+Dishwasher = bulaşık makinesi
+
+Curtain = perde
+
+Draw the curtains = perdeleri çekmek
+
+Slap = şaplak atmak/tokat atmak/vurmak
+
+Elbow = dirsek
+
+Hot pepper = acı biber
+
+Garlic = sarımsak
+
+Package = paket
+
+Though = yine de/-sa bile
+
+Exhausted = çok yorgun
+
+Hilarious = çok komik
+
+Fascinating = çok ilginç
+
+Furious = çok sinirli
+
+Mad = çok sinirli
+
+Triangle = üçgen
+
+Square = kare
+
+Quadrilateral = dörtgen
+
+Rectangle = dikdörtgen
+
+Pentagon = beşgen
+
+Hexagon = altıgen
+
+Angle = açı
+
+Right angle = dik açı
+
+Narrow angle = dar açı
+
+Wide angle = geniş açı
+
+Narrow = dar
+
+Wide = geniş
+
+Steep roads = dik yollar
+
+Downtown = şehir merkezi
+
+Cupboard = mutfak dolabı gibi dolap
+
+Closet/wardrobe = giysi dolabı gibi dolap
+
+It's none of my business = (aman) bana ne
+
+It's none of your business = sana ne
+
+Napkin = peçete
+
+Wipes = mendil
+
+Wet wipes = ıslak mendil
+
+What the hell = Bu da ne böyle?
+
+Broken = bozuk
+
+Suit yourself = sen bilirsin/ keyfin bilir
+
+You will get used to it = alışacaksın
+
+Ditto = aynen
+
+Do you know what I mean = anladın mı
+
+Ephemeral = kısa ömürlü/fani/geçici
+
+Disappear = yok olmak
+
+I kid you not = şakasız söylüyorum
+
+Thanks to you = senin sayende / sınavı senin sayende geçtim
+
+Because of you = senin yüzünden / sınavı senin yüzünden kaçırdım
+
+Every now and again = arada sırada
+
+Lack = eksiklik (I don't feel much of a lack = pek fazla eksiklik hissetmiyorum)
+
+Caretaker = bekçi
+
+Workplace = iş yeri
+
+Haphazardly = gelişigüzel
+
+Glad = memnun (I am glad to see you again = seni tekrar gördüğüme sevindim)
+
+Ain't = olumsuzluk ekidir (I ain't going to the party tonight = Bu gece partiye gitmeyeceğim)
+
+Cute aggression = sevgiden mıncıklama
+
+Educate = eğitmek
+
+That's a steal = sudan ucuz
+
+I reckon = I think (bence/düşünüyorum)
+
+Juice ain't worth the squeeze = uğraşmaya değmez
+
+Can you tell ....? = Belli oluyor mu ... olduğum?
+
+It is time to face the music = sonuçlarına katlanma zamanı
+
+Salary = maaş
+
+Are you satisfied with your landlord? = Ev sahibinden memnun musun?
+
+Who do you ...? = Kiminle ...?
+
+There is no need to thank me = Teşekkür etmene gerek yok
+
+Ridiculous = saçma
+
+Unfortunately = Ne yazık ki
+
+Blossom = ağaç çiçeği
+
+Smallpox = su çiçeği/ çiçek hastalığı
+
+Laugh = gülmek
+
+Wonder = merak etmek
+
+Assure = söz vermek
+
+Assumption = varsayım
+
+So you might... = belki de sen ... (So you might want to bring an umbrella = Belki de şemsiye getirmek istersin)
+
+Buckle up = emniyet kemerini bağla
+
+If necessary = eğer gerekliyse
+
+Binoculars = dürbün
+
+Hit the books = sıkı ders çalışmak (bir deyim)
+
+Eggplant = patlıcan
+
+You left ... = Bıraktın...
+
+I am too lazy ... = ... yapmaya üşeniyorum
+
+Accuse = suçlamak
+
+Adjust = ayarlamak
+
+Admit = kabul etmek, izin vermek
+
+Advertise = reklam yapmak, ilan vermek
+
+Advocate = avukat
+
+Affair = olay, iş, ilişki
+
+Agreement = anlaşma
+
+Agriculture = tarım
+
+Aim = amaç, hedef almak
+
+Aisle = koridor, ara yol
+
+Allowance = harçlık
+
+Ambassador = büyükelçi
+
+Amusement = eğlence
+
+Ancient = eski
+
+Anticipate = öngörmek, beklemek, tahmin etmek
+
+Apparent = açık, belli, bariz
+
+Appearance = dış görünüş
+
+Appreciate = müteşekkir, değer bilmek, beğenmek
+
+Appropriate = uygun
+
+Approve = onaylamak
+
+Argument = tartışma
+
+Arrest = tutuklamak
+
+Audience = izleyici (tv, tiyatro vb.)
+
+Avoid = kaçınmak
+
+Baggage-claim = bagaj teslim yeri
+
+Balance sheet = bilanço
+
+Bank-account = banka hesabı
+
+Bankrupt = iflas, iflas etmek
+
+Bargain = pazarlık etmek, kelepir
+
+Beg = dilenmek, yalvarmak
+
+Beggar = dilenci
+
+Blame = sorumlu tutmak, suçlamak
+
+Board of directors = yönetim kurulu
+
+Breath = nefes
+
+Bribe = rüşvet
+
+Budget = bütçe, bütçe yapmak
+
+Candidate = aday
+
+Capital = başkent, büyük harf, sermaye
+
+Cash flow = nakit akışı
+
+Cemetery = mezarlık
+
+Chamber of commerce = ticaret odası
+
+Charge = doldurmak, masrafa yazmak
+
+Charming = çekici
+
+Chief executive = başkan, yönetici
+
+Circumstance = durum
+
+Claim = ileri sürmek, savlamak
+
+Client = müşteri, müvekkil
+
+Coal = kömür
+
+Comment = açıklama
+
+Commerce = ticaret
+
+Commercial = ticari, reklam
+
+Community = topluluk, halk
+
+Competition = yarışma, rekabet
+
+Complaint = şikâyet
+
+Concentrate = yoğunlaşmak, odaklanmak
+
+Condition = durum, şart
+
+Confess = itiraf etmek
+
+Congratulate = tebrik etmek, kutlamak
+
+Congress = kongre, meclis
+
+Consider = göz önünde bulundurmak, düşünmek
+
+Construction = inşaat
+
+Consult = danışmak
+
+Contest = yarışma
+
+Contribute = katkıda bulunmak
+
+Convert = dönüştürmek
+
+Court = mahkeme
+
+Crossword = çapraz bulmaca
+
+Cruel = zalim
+
+Customs = gümrük
+
+Dashboard = gösterge paneli
+
+Deadline = mühlet, son teslim tarihi
+
+Deceive = kandırmak
+
+Declare = açıklamak, bildirmek
+
+Define = tanımlamak
+
+Deflation = para darlığı
+
+Depend = bağımlı olmak, ihtiyacı olmak
+
+Desire = arzu
+
+Devaluation = devalüasyon
+
+Diagnose = teşhis etmek
+
+Disappear = gözden kaybolmak
+
+Disappoint = hayal kırıklığına uğratmak
+
+Distance = uzaklık
+
+Distribution = dağıtım
+
+Dreadful = korkunç, kötü
+
+Eager = istekli
+
+Election = seçim
+
+Embassy = büyükelçilik
+
+Encourage = cesaretlendirmek
+
+Enemy = düşman
+
+Enterprise = girişim
+
+Entrepreneur = girişimci
+
+Envy = kıskançlık
+
+Essay = deneme
+
+Establish = kurmak, inşa etmek
+
+Estimate = tahmin etmek (hesaplayarak)
+
+Evaluate = değerlendirmek
+
+Evidence = delil
+
+Exaggerate = abartmak
+
+Examine = incelemek, sınav vermek
+
+Exchange-rate = döviz kuru
+
+Exhibition = sergi
+
+Experiment = deney
+
+Fame = şöhret, ün
+
+Fence = çit
+
+Fix = yapıştırmak, tamir etmek
+
+Fluent = akıcı
+
+Foolish = aptalca
+
+Forecast = tahmin
+
+Fragile = kolay kırılabilir
+
+Frame = çerçeve
+
+Franchise = imtiyaz
+
+Frequent = sık
+
+Freak out = çıldırmak
+
+Fund raising = para toplama
+
+Gamble = kumar oynamak, kumar
+
+Gear = dişli
+
+Transmission = şanzıman
+
+Globalization = küreselleşme
+
+Government = hükümet
+
+Grateful = minnettar
+
+Growth rate = büyüme hızı
+
+Hair-dryer = saç kurutma makinesi
+
+Harvest = hasat
+
+Hesitate = duraksamak, tereddüt etmek
+
+Hire = kiralamak (taşınabilir nesneleri, araba, TV, vb.)
+
+Hitch-hike = otostop yapmak
+
+Homesick = sıla hasreti
+
+Identification = kimlik
+
+In advance = önceden
+
+Include = dahil, dahil etmek
+
+Income = gelir
+
+Increase = artırmak
+
+Independent = bağımsız
+
+Inflation = enflasyon
+
+Innocent = masum
+
+Inspection = muayene
+
+Inspector = müfettiş
+
+Insurance = sigorta
+
+Interest-rate = faiz oranı
+
+Invoice = fatura
+
+Judge = hakim, yargılamak
+
+Justice = adalet
+
+Kidnapping = adam kaçırma
+
+Knowledge = bilgi
+
+Labor force = işgücü
+
+Landlord = kiraya veren
+
+licence-plate = plaka
+
+life-vest = can yeleği
+
+loan = ödünç vermek, borç vermek, borç
+
+loan agreement = kredi anlaşması
+
+magnificent = azamet, ihtişam
+
+maintain = sürdürmek, devam ettirmek
+
+market share = pazar payı
+
+marketing research = pazarlama araştırması
+
+marvellous = şahane, harika
+
+massive = çok büyük ve ağır
+
+member of parliament = parlamento üyesi, milletvekili
+
+mention = bahsetmek
+
+merchandise = mal
+
+nation = ulus
+
+net capital = net sermaye
+
+objective = nesnel
+
+observe = gözlem yapmak
+
+obvious = aşikar
+
+opportunity = fırsat
+
+participate = başkalarıyla birlikte çalışma, oynama, katılma
+
+patience = sabır
+
+percentage = yüzde
+
+persuade = ikna etmek
+
+pollution = kirlenme
+
+postpone = ertelemek
+
+president = başkan
+
+price control = fiyat kontrolü
+
+prison = hapis
+
+process = işlem
+
+profit = kar
+
+prohibit = yasaklamak
+
+promotion = terfi
+
+property = mal, mülk, eşya
+
+proposal = plan, öneri
+
+prove = kanıtlamak
+
+publicity = ilan, reklam, yayınlama
+
+punctual = tam zamanında
+
+punishment = ceza
+
+quantity = miktar
+
+quarrel = tartışmak, atışmak
+
+queue = sıra, kuyruk
+
+receipt = makbuz
+
+receive = teslim almak, almak
+
+recognize = tanımak
+
+recommend = tavsiye etmek
+
+reduce = azaltmak
+
+rub = sürmek, sürtmek, ovmak
+
+schedule = takvim belirlemek, zaman planı
+
+regret = üzgün olmak, pişman olmak
+
+reject = kabul etmemek
+
+release = serbest bırakmak, gevşetmek
+
+religion = din
+
+reluctant = isteksiz ve bundan dolayı işi yapmayı ağırdan almak
+
+rely = güvenmek
+
+represent = temsil etmek
+
+request = rica etmek, rica
+
+resolution = çözüm
+
+resource = kaynak
+
+respect = saygı duymak
+
+respond = cevap vermek
+
+revenue = gelir
+
+revise = tekrar gözden geçirip düzeltmek
+
+sand = kum
+
+science = bilim
+
+seek = aramak, soruşturmak
+
+sense = duyu
+
+shake = sarsmak
+
+share = paylaştırmak, paylaşmak, pay
+
+sink = batmak, lavabo
+
+skyscraper = gökdelen
+
+steering-wheel = direksiyon
+
+strike = grev yapmak, grev
+
+substitute = vekil tayin etme, yerine geçme, vekil
+
+supplier = satıcı
+
+suppose = sanmak
+
+swear = yemin etmek, küfretmek
+
+take action = harekete geçmek
+
+take advantage = yararlanmak
+
+task = görev
+
+tax = vergi
+
+throat = gırtlak, yemek borusu
+
+book = kitap, rezervasyon yaptırmak
+
+torture = işkence, işkence etmek
+
+trademark = marka
+
+transmit = iletmek
+
+treat = davranmak, muamele etmek, tedavi etmek
+
+treatment = davranış, tedavi
+
+trick = hile, hile yapmak
+
+underline = yazının, kelimenin altını çizmek
+
+unemployment = işsizlik
+
+urgent = acil
+
+VAT (Value Added Tax) = KDV (katma değer vergisi)
+
+violent = kaba: kuvvet kullanan, şiddet
+
+volunteer = gönüllü
+
+warehouse = depo
+
+wealthy = zengin
+
+weapon = silah
+
+whistle = ıslık, ıslık çalmak
+
+wholesale = toptan
+
+witness = tanık, tanıklık etmek
+
+zip = fermuar
+
+To object = itiraz etmek
+
+Accurate = doğru
+
+Regret = pişman olmak
+
+Adopt = evlat edinmek
+
+Wish = dilemek, istemek
+
+Prepositions = edatlar
+
+In = genel zaman ifade ederken kullanılır
+
+On = spesifik gün veya tarih ifade ederken kullanılır
+
+At = spesifik zaman veya konum ifade ederken kullanılır
+
+Queue = kuyruk
+
+I don't feel like = canım çekmiyor
+
+Leak out = sızıntı, sızmak
+
+By all means = elbette
+
+By no means = asla
+
+Selfish = bencil
+
+divided = pay etmek
+
+Look after = göz kulak olmak
+
+Propeller = pervane
+
+Mount = montaj
+
+Expiration = son kullanma tarihi
