@@ -7,12 +7,12 @@ Bu proje, Python ve Rembg (u2net) yapay zeka modelini kullanarak klasördeki res
 Dosya ve klasör düzeni aşağıdaki gibidir. Çalıştırmadan önce fotoğraflarınızı orijinaller klasörüne atmanız yeterlidir.
 
 Plaintext
-
 AI Arka Plan Temizleyici/
 ├── bg_remover.py           # Ana Python betiği
 ├── dll_files/              # GPU hızlandırma için gerekli kütüphaneler
 ├── orijinaller/            # İşlenecek fotoğrafları buraya koyun
 └── temizlenmis_resimler/   # Arka planı silinenler buraya çıkar
+
 🚀 Özellikler
 GPU Hızlandırma: Proje klasörü içerisindeki dll_files sayesinde sistem genelinde CUDA kurulumuyla uğraşmadan GPU gücünü kullanır.
 
@@ -66,4 +66,5 @@ dll_files içeriği: Script çalıştırıldığında otomatik olarak PATH deği
 *Not: Eğer bu adımı yapmazsanız veya NVIDIA kartınız yoksa, script otomatik olarak CPU üzerinden çalışmaya devam eder (çok daha yavaş olacaktır).*
 
 📊 Performans Notu
+
 Kod içerisindeki workers = 8 ayarı RTX 4060 ve muadili güçlü işlemci/ekran kartı kombinasyonları için optimize edilmiştir. Daha düşük donanımlarda bu sayıyı düşürebilirsiniz.
