@@ -73,4 +73,4 @@ Bu proje **GPLv3** ile lisanslanmıştır. Yazılımı kullanabilir, değiştire
 
 ## 📬 İletişim
 
-Her türlü soru, öneri veya geri bildirim için bana ulaşabilirsiniz. Katkılarınız projeyi daha güçlü hale getirir!
+Her türlü soru, öneri veya geri bildirim için bana ulaşabilirsiniz.
