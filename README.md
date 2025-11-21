@@ -1,26 +1,76 @@
-# python-projects
+# 🐍 Python Projects
 
-Bu projeler, Python dilinde yazılmış basit ve işlevsel kodları içermektedir. Python'un esnekliğini ve gücünü göstermek için çeşitli konularda yazılmış küçük ölçekli projeler içeren bir çalışmadır. Her biri, belirli bir problemi çözmek veya belirli bir işlemi gerçekleştirmek için tasarlanmıştır.
+Bu depo, Python ile geliştirdiğim çeşitli araçlar, otomasyon scriptleri, yapay zeka tabanlı uygulamalar ve sistem araçlarından oluşan geniş bir koleksiyondur. Başlangıçta sadece basit eğitim projeleri içerirken, artık gerçek dünyada işe yarayan kapsamlı scriptleri ve çok daha ileri seviye modülleri barındıran bir yapıya dönüştü.
 
-## Hakkında
+Her proje bağımsız çalışacak şekilde tasarlanmış olup farklı alanlarda ihtiyaç duyulabilecek hızlı ve pratik çözümler sunar.
 
-Bu projeler, Python öğrenme sürecim sırasında yazdığım basit kod örneklerini içerir. Amaç, Python'un temel yapı taşlarını ve yaygın kullanılan kütüphanelerini kullanarak gerçek dünyadaki problemleri çözmeye yönelik pratikler yapmaktır. Kodlar, Python'un farklı özelliklerini keşfetmeme ve becerilerimi geliştirmeme yardımcı oldu. Umuyorum ki, bu projeler başkaları için de faydalı olur ve öğrenme sürecinde ilham verir.
+---
 
-## İçerik
+## 📚 İçerik
 
-Proje içerisinde bulabileceğiniz kodlar:
+Aşağıda depoda yer alan proje kategorileri ve öne çıkan örnekler yer almaktadır.
 
-- Temel Python fonksiyonları ve kontrol yapıları
-- Dosya okuma ve yazma işlemleri
-- Basit algoritma uygulamaları
-- Pandas kütüphanesi ile veri analizi ve manipülasyonu
-- SQLite veri tabanını kullanarak veri yönetimi ve sorgulama
-- Selenium kütüphanesi ile web otomasyonu ve testleri
+### 🪄 Yapay Zeka & Görüntü İşleme
 
-## Lisans
+* **GPU destekli Arka Plan Temizleyici (Rembg / U2Net)**
+* Görsel optimizasyon ve sıkıştırma araçları
+* Toplu resim işleme scriptleri
 
-Bu proje, GNU Genel Kamu Lisansı sürüm 3 (GPLv3) altında lisanslanmıştır. Bu, yazılımı özgürce kullanabileceğiniz, değiştirebileceğiniz ve dağıtabileceğiniz anlamına gelir, ancak bu tür eylemler gerçekleştirilirken aynı lisans koşullarına uyulmalıdır.
+### 🤖 Otomasyon & Web
 
-## İletişim
+* YouTube video / ses indirme araçları
+* Döviz kuru çevirici ve API tabanlı veri dönüştürücüler
+* Web scraping & otomasyon (Selenium tabanlı araçlar)
 
-Herhangi bir soru, öneri ya da geri bildirim için benimle iletişime geçmekten çekinmeyin.
+### 📁 Dosya Yönetimi & Yerel Ağ Araçları
+
+* Yerel ağ üzerinde dosya transferi yapan uygulama
+* PDF birleştirici ve dosya düzenleme scriptleri
+* Toplu dosya isimlendirme / dönüştürme yardımcıları
+
+### 🗄️ Veri İşleme & Veritabanı
+
+* SQLite veritabanı ile CRUD örnekleri
+* SQL sahte veri üreticisi
+* Coğrafi veri analizi (geo-pandas)
+* Veri dönüştürme, analiz ve temizleme araçları
+
+### 👤 Kullanıcı Sistemleri
+
+* Kullanıcı kayıt / giriş / hesap silme modülleri (temel authentication sistemi)
+
+### 🖥️ Sistem İzleme & Araçlar
+
+* Sistem kaynaklarını izleyen dashboard uygulaması
+* Wi-Fi şifre görüntüleme uygulaması
+
+### 🍽️ Uygulama & Yönetim
+
+* Restoran yönetim uygulaması
+* Okul yönetim sistemi için temel yapılar
+
+> ✨ Not: Depo sürekli güncellenmektedir. Yeni scriptler ve projeler eklendikçe içerik genişlemeye devam edecektir.
+
+---
+
+## ⚙️ Kullanım
+
+Projeler doğrudan çalıştırılabilir olacak şekilde bağımsızdır. Her klasör kendi içinde gerekli yönergeleri içerir.
+
+---
+
+## 🤝 Katkı
+
+Her türlü geliştirme önerisi, hata bildirimi veya yeni fikir memnuniyetle karşılanır. Pull request açabilir veya issue oluşturabilirsiniz.
+
+---
+
+## 📜 Lisans
+
+Bu proje **GPLv3** ile lisanslanmıştır. Yazılımı kullanabilir, değiştirebilir ve dağıtabilirsiniz; ancak türetilmiş projelerin de aynı lisans altında yayımlanması gerekir.
+
+---
+
+## 📬 İletişim
+
+Her türlü soru, öneri veya geri bildirim için bana ulaşabilirsiniz. Katkılarınız projeyi daha güçlü hale getirir!
