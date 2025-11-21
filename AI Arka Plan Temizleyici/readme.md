@@ -72,9 +72,9 @@ Eğer NVIDIA GPU (ör. RTX 4060) ile hızlandırmadan faydalanmak istiyorsanız 
 * `cufft64_11.dll`
 * `curand64_10.dll`
 
-> **Önemli:** Bu `.dll` dosyalarını buraya eklemeyin (boyutları büyük olabilir). Projenin telif/güvenlik kuralları gereğince bu dosyalar depo içine konmamalıdır.
+> **Önemli:** Bu `.dll` dosyalarını buraya eklemedim (boyutları büyük (1.92GB)). Projenin telif/güvenlik kuralları gereğince bu dosyaları depo içine koymadım.
 
-Script, `dll_files/` içinde uygun dosyaları tespit ederse otomatik olarak GPU moduna geçecektir. Eğer dosyalar yoksa veya uygun bir NVIDIA kartı bulunamazsa çalışma CPU modunda devam eder (daha yavaş).
+Script, `dll_files/` içinde uygun dosyaları tespit ederse otomatik olarak GPU moduna geçecektir. Eğer dosyalar yoksa veya uygun bir NVIDIA kartı bulunamazsa çalışma CPU modunda devam eder (haliyle daha yavaş).
 
 ---
 
@@ -111,3 +111,4 @@ Sorularınız veya özel istekleriniz için README üzerinden veya proje issue t
 ---
 
 *Hazır — hızlı, pratik ve GPU destekli arka plan temizleme çözümünüz.*
+
