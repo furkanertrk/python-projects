@@ -1,114 +1,69 @@
-# 🪄 AI Arka Plan Temizleyici (High Performance)
+🪄 AI Arka Plan Temizleyici (High Performance)
+Bu proje, Python ve Rembg (u2net) yapay zeka modelini kullanarak klasördeki resimlerin arka planlarını toplu halde ve yüksek hızda temizler.
 
-Bu proje Python ve **rembg (u2net)** kullanarak bir klasördeki resimlerin arka planlarını toplu ve yüksek performanslı şekilde temizler. Özellikle **NVIDIA GPU (CUDA)** hızlandırması için gerekli `.dll` dosyalarını yerel olarak kullanarak, RTX 40-serisi gibi kartlarda çoklu iş parçacığı (multi-threading) ile maksimum verim sağlar.
+Özellikle NVIDIA GPU (CUDA) desteği için gerekli .dll dosyalarıyla entegre edilmiştir ve RTX 4060 gibi kartlarda maksimum performans verecek şekilde çoklu iş parçacığı (multi-threading) ile çalışır.
 
----
+📂 Proje Yapısı
+Dosya ve klasör düzeni aşağıdaki gibidir. Çalıştırmadan önce fotoğraflarınızı orijinaller klasörüne atmanız yeterlidir.
 
-## 📂 Proje Yapısı
+Plaintext
 
-```
 AI Arka Plan Temizleyici/
 ├── bg_remover.py           # Ana Python betiği
-├── dll_files/              # GPU hızlandırma için gerekli kütüphaneler (opsiyonel)
+├── dll_files/              # GPU hızlandırma için gerekli kütüphaneler
 ├── orijinaller/            # İşlenecek fotoğrafları buraya koyun
-└── temizlenmis_resimler/   # Arka planı silinen dosyalar buraya çıkar
-```
+└── temizlenmis_resimler/   # Arka planı silinenler buraya çıkar
+🚀 Özellikler
+GPU Hızlandırma: Proje klasörü içerisindeki dll_files sayesinde sistem genelinde CUDA kurulumuyla uğraşmadan GPU gücünü kullanır.
 
-> Çalıştırmadan önce `orijinaller/` klasörüne fotoğraflarınızı koymanız yeterlidir.
+Multi-Threading: Aynı anda birden fazla fotoğrafı işleyerek (Varsayılan: 8 worker) süreyi minimuma indirir.
 
----
+Akıllı Atlatma: Eğer bir fotoğrafın temizlenmiş hali zaten temizlenmis_resimler klasöründe varsa, o fotoğrafı tekrar işlemez (zaman kazandırır).
 
-## 🚀 Özellikler
+Otomatik Klasör Yapısı: Çıktı klasörü yoksa kendi oluşturur.
 
-* **GPU Hızlandırma**: `dll_files` klasöründeki uygun `.dll` dosyaları tespit edildiğinde ONNX/onnxruntime-gpu ile GPU üzerinden çalışır.
-* **Multi-Threading**: Aynı anda birden fazla resmi işleyerek toplam süreyi kısaltır (varsayılan: `workers = 8`).
-* **Akıllı Atlatma**: Hâlihazırda `temizlenmis_resimler/` içinde temizlenmiş bir dosya varsa tekrar işleme yapmaz.
-* **Otomatik Klasör Oluşturma**: Çıktı klasörü yoksa script çalıştırılınca otomatik oluşturur.
+🛠️ Kurulum ve Gereksinimler
+Bilgisayarınızda Python kurulu olmalıdır.
 
----
+Gerekli kütüphaneleri kurmak için terminalde şu komutu çalıştırın:
 
-## 🛠️ Gereksinimler
+Bash
 
-* Python 3.8+ yüklü olmalı.
-* Gerekli Python paketleri:
-
-```bash
 pip install rembg pillow tqdm
-```
+(Not: dll_files klasörü sayesinde ekstra bir CUDA kurulumu yapmanıza gerek yoktur, script bu dosyaları otomatik tanır.)
 
-> Not: `dll_files` klasörü sayesinde sistem genelinde CUDA kurulumu yapmanıza gerek yoktur; script doğru `.dll` dosyalarını tespit ederse GPU moduna geçer.
+💻 Nasıl Kullanılır?
+Arka planını silmek istediğiniz resimleri (.jpg, .png, .jpeg, .webp) orijinaller klasörünün içine atın.
 
----
+Scripti çalıştırın:
 
-## 💻 Kullanım
+Bash
 
-1. `orijinaller/` klasörüne arka planını temizlemek istediğiniz resimleri koyun (`.jpg`, `.png`, `.jpeg`, `.webp` desteklenir).
-2. Terminalde proje klasörüne gidin ve çalıştırın:
-
-```bash
 python bg_remover.py
-```
+İşlem bittiğinde temizlenmiş PNG dosyalarınızı temizlenmis_resimler klasöründe bulabilirsiniz.
 
-3. İşlem tamamlandığında temizlenmiş PNG dosyalarını `temizlenmis_resimler/` içinde bulacaksınız.
+⚙️ Teknik Detaylar (DLL & GPU)
+Bu proje, onnxruntime-gpu kütüphanesinin NVIDIA kartlarda sorunsuz çalışması için gerekli olan CUDA 12.x ve cuDNN 9.x kütüphanelerini yerel olarak barındırır.
 
----
+dll_files içeriği: Script çalıştırıldığında otomatik olarak PATH değişkenine eklenen dosyalar: (Bu .dll dosyalarını eklemeyeceğim.Boyutu çok büyük (1.92GB))
 
-## ⚙️ GPU Hızlandırma için DLL Talimatları
+**Eğer GPU hızlandırmasını (RTX/GTX kartlarda) kullanmak istiyorsanız:**
 
-Eğer NVIDIA GPU (ör. RTX 4060) ile hızlandırmadan faydalanmak istiyorsanız aşağıdaki adımları izleyin.
+1.  Proje klasöründe `dll_files` adında boş bir klasör oluşturun.
+2.  **NVIDIA CUDA Toolkit 12.x** ve **cuDNN 9.x** kütüphanelerinden aşağıdaki dosyaları bulup bu klasörün içine kopyalayın:
 
-1. Proje kökünde `dll_files` adında bir klasör oluşturun (boş olması yeterli).
-2. **NVIDIA CUDA Toolkit 12.x** ve **cuDNN 9.x** kurulumundan aşağıdaki `.dll` dosyalarını bulun ve `dll_files/` klasörüne kopyalayın.
+* 'cublas64_12.dll' & 'cublasLt64_12.dll'
+* 'cudart64_12.dll'
+* 'cudnn64_9.dll'
+* 'cudnn_adv64_9.dll', 'cudnn_cnn64_9.dll', 'cudnn_graph64_9.dll'
+* 'cudnn_ops64_9.dll', 'cudnn_heuristic64_9.dll'
+* cudnn_engines_precompiled64_9.dll
+* 'cudnn_engines_runtime_compiled64_9.dll'
+* 'cufft64_11.dll'
+* 'curand64_10.dll'
 
-**Gereken örnek dosyalar (tam liste olmayabilir, sisteminize göre ek dosyalar gerekebilir):**
+3.  Scripti çalıştırdığınızda otomatik olarak bu klasörü algılayıp GPU moduna geçecektir.
+*Not: Eğer bu adımı yapmazsanız veya NVIDIA kartınız yoksa, script otomatik olarak CPU üzerinden çalışmaya devam eder (çok daha yavaş olacaktır).*
 
-* `cublas64_12.dll`, `cublasLt64_12.dll`
-* `cudart64_12.dll`
-* `cudnn64_9.dll`
-* `cudnn_adv64_9.dll`, `cudnn_cnn64_9.dll`, `cudnn_graph64_9.dll`
-* `cudnn_ops64_9.dll`, `cudnn_heuristic64_9.dll`
-* `cudnn_engines_precompiled64_9.dll`
-* `cudnn_engines_runtime_compiled64_9.dll`
-* `cufft64_11.dll`
-* `curand64_10.dll`
-
-> **Önemli:** Bu `.dll` dosyalarını buraya eklemedim (boyutları büyük (1.92GB)). Projenin telif/güvenlik kuralları gereğince bu dosyaları depo içine koymadım.
-
-Script, `dll_files/` içinde uygun dosyaları tespit ederse otomatik olarak GPU moduna geçecektir. Eğer dosyalar yoksa veya uygun bir NVIDIA kartı bulunamazsa çalışma CPU modunda devam eder (haliyle daha yavaş).
-
----
-
-## ⚡ Performans Notları
-
-* `workers = 8` varsayılanı RTX 4060 ve benzeri güçlü kombinasyonlar için optimize edilmiştir. Daha zayıf donanımlarda bu sayıyı düşürün (ör. 2–4).
-* Büyük boyutlu resimlerde bellek kullanımı artar; GPU bellek sınırlarına dikkat edin.
-
----
-
-## ✨ Örnek Komutlar ve İpuçları
-
-* Tek seferde sadece birkaç dosya test etmek isterseniz `orijinaller/` içine küçük örnekler koyun.
-* Hatalarla karşılaşırsanız terminal çıktısını kontrol edin; script kullanıcıya hangi modda çalıştığını (GPU/CPU) bildirir.
-
----
-
-## 🔒 Güvenlik & Lisans
-
-* Bu depo `.dll` dosyalarını içermez. Kullanıcılar kendi CUDA/cuDNN kurulumlarından gerekli dosyaları sağlamalıdır.
-
----
-
-## 🤝 Katkıda Bulunma
-
-Katkılar hoş gelir! Hata bildirimi, performans iyileştirmeleri veya dökümantasyon düzeltmeleri için pull request açabilirsiniz.
-
----
-
-## İletişim
-
-Sorularınız veya özel istekleriniz için README üzerinden veya proje issue tracker üzerinden bana ulaşabilirsiniz.
-
----
-
-*Hazır — hızlı, pratik ve GPU destekli arka plan temizleme çözümünüz.*
-
+📊 Performans Notu
+Kod içerisindeki workers = 8 ayarı RTX 4060 ve muadili güçlü işlemci/ekran kartı kombinasyonları için optimize edilmiştir. Daha düşük donanımlarda bu sayıyı düşürebilirsiniz.
