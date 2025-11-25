@@ -1,0 +1,3 @@
+pdf2docx
+docx2pdf
+Pillow

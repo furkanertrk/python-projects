@@ -1,17 +1,33 @@
-# Kur Çevirici
+# TCMB Güncel Kur Çevirici
 
-Basit kur çevirici scripti.
+Bu script, Türkiye Cumhuriyet Merkez Bankası (TCMB) tarafından yayınlanan güncel döviz kurlarını kullanarak anlık olarak Dolar, Euro ve Sterlin'in Türk Lirası karşılığını gösterir.
 
-Dosya
-- `kur_cevirici.py` — döviz kuru dönüşümleri için kullanılabilir.
+## Ne İşe Yarar?
+- TCMB'nin resmi "today.xml" dosyasından canlı olarak kur verilerini çeker.
+- Kullanıcıya Dolar (USD), Euro (EUR) ve Sterlin (GBP) arasında seçim yapma imkanı sunar.
+- Seçilen döviz biriminin güncel TL karşılığını ekrana yazdırır.
 
-Gereksinimler
+## Gereksinimler
 - Python 3.x
-- İnternet bağlantısı gerektirebilir (API kullanımı varsa)
+- Herhangi bir ek kütüphane gerektirmez, Python'un standart kütüphaneleri ile çalışır.
+- Kur verilerini çekebilmek için aktif bir internet bağlantısı gereklidir.
 
-Kullanım
-- `python kur_cevirici.py`
-- Daha ayrıntılı argümanlar ve örnekler için script içindeki yorumlara bakın.
-
-Not
-- Kullanılan veri kaynağının (API) kullanım koşullarına uyun ve istek sınırlarına dikkat edin.
+## Kullanım
+1.  **Terminali açın:** Script'in bulunduğu klasöre gidin.
+2.  **Script'i çalıştırın:**
+    ```bash
+    python kur_cevirici.py
+    ```
+3.  **Döviz Cinsini Seçin:** Program sizden bir seçim yapmanızı isteyecektir.
+    ```
+    Lütfen bir döviz cinsi seçiniz:
+    1- Amerikan Doları (USD)
+    2- Euro (EUR)
+    3- İngiliz Sterlini (GBP)
+    Seçiminiz: 2
+    ```
+4.  **Sonucu Görüntüleyin:** Seçiminize göre, o anki güncel kur bilgisi ekrana yazdırılacaktır.
+    ```
+    Güncel Kur: 1 EUR = 35.50 TL
+    ```
+    *(Not: Yukarıdaki kur değeri temsilidir.)*
