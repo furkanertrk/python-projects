@@ -1,4 +1,4 @@
-# 🐍 Python Projects
+# 🐍 Python Scripts
 
 Bu depo, Python ile geliştirdiğim çeşitli araçlar, otomasyon scriptleri, yapay zeka tabanlı uygulamalar ve sistem araçlarından oluşan geniş bir koleksiyondur. Başlangıçta sadece basit eğitim projeleri içerirken, artık gerçek dünyada işe yarayan kapsamlı scriptleri ve çok daha ileri seviye modülleri barındıran bir yapıya dönüştü.
 
